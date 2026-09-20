@@ -1,0 +1,6 @@
+{
+  "name": "TalentSource",
+  "description": "TalentSource — Universal AI Talent Network with automated cross-industry matching, deterministic readiness scoring, and monetization command.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
